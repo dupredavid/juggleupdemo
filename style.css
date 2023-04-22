@@ -1,0 +1,104 @@
+body {
+    background-image: url(./images/fb-fieldwotxt..jpeg);
+    background-size: cover;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 900;
+    margin: 0;
+    padding: 0;
+
+    
+}
+.nav {
+    list-style: none;
+    
+}
+.navigation {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #088395;
+    border: 2px dotted white;
+    margin-top: 40px;
+    padding: 10px;
+    position: relative;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.2rem;
+}
+.tag {
+    color: white;
+    font-size: 3rem;
+    margin-top: 50px;
+    text-align: center;
+    text-transform: uppercase;
+}
+h2, h3, p {
+    color: black;
+    margin: auto;
+    width: 80%;
+    
+}
+
+.main {
+    border: 5px dashed azure;
+    margin: auto;
+    margin-bottom: 15px;
+    padding: 15px 0px;
+    width: 60%;
+    background-color: rgb(8,131,149,0.8);
+    border-radius: 10px;   
+
+}
+
+.articles {
+    color:azure;
+    
+}
+.games {
+    justify-content: space-evenly;
+}
+
+.forms {
+    color: black;
+    list-style: none;
+    text-align: center;
+}
+
+.history {
+    margin-bottom: 1rem;
+}
+
+.note > a {
+    color: black;
+    /* font-weight:900; */
+}
+.schedule {
+    text-align: center;
+    
+}
+
+.times {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+td, th {
+    text-align: center;
+}
+th {
+    text-decoration: underline;
+    font-size: 1.2rem;
+}
+footer {
+    background-color: rgb(8, 131, 149, 0.8);
+    color: antiquewhite;
+    font-weight: 300;
+    padding: 10px 0;
+    text-align: center;
+}
+
+
+
+
+
